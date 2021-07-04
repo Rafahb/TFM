@@ -1,0 +1,140 @@
+Métrica,Descripción
+Métricas la liga, --------------
+Equipo,Nombre del equipo
+RL,Posición del equipo en la competición
+PJ,Número de partidos jugados
+PG,Número de partidos ganados
+PE,Número de partidos empatados
+PP,Número de partidos perdidos
+GF,Número de goles a favor
+GC,Número de goles en contra
+DG,Diferencia de goles
+Pts,Puntos conseguidos
+Gls.,Número de goles marcados
+Ass,Número de asistencias
+G-TP,Número de goles sin penalización
+Gls./90,Número de goles por 90 minutos
+Ast/90,Número de asistencias por 90 minutos
+G-TP/90,Número de goles sin penalización por 90 minutos
+xG,Número de goles esperados
+npxG,Número de goles sin penalización esperados
+xA,Número de asistencias esperadas
+xG/90,Número de goles esperados por 90 minutos
+npxG/90,Número de goles sin penalización esperados por 90 minutos
+xA/90,Número de asistencias esperadas por 90 minutos
+Penales intentados,Número de penaltis intentados
+Penales concedidos,Número de penales concedidos
+Penales detenidos,Número de penales detenidos
+Penales fallidos,Número de penales fallidos
+%Penales salvados,Porcentaje de penales salvados
+Presiones Z3,Número de presiones realizados con éxito en el último tercio del campo
+Presiones Z2,Número de presiones realizados con éxito en el segundo tercio del campo
+Presiones Z1,Número de presiones realizados con éxito en el primer tercio del campo
+Presiones,Número de presiones totales realizados con éxito
+Takles Z3,Número de cortes/placajes realizados con éxito en el último tercio del campo
+Takles Z2,Número de cortes/placajes realizados con éxito en el segundo tercio del campo
+Takles Z1,Número de cortes/placajes realizados con éxito en el primer tercio del campo
+Takles,Número de cortes/placajes totales realizados con éxito
+Toques Z3,Número de toques realizados con éxito en el último tercio del campo
+Toques Z2,Número de toques realizados con éxito en el segundo tercio del campo
+Toques Z1,Número de toques realizados con éxito en el primer tercio del campo
+Toques,Número de toques totales realizados con étixo.
+TA,Número de tarjetas amarillas
+TR,Número de tarjetas rojas
+2a amarilla,Número de segundas tarjetas amarillas recibidas
+Fls,Número total de faltas realizadas
+FR,Número total de faltas recibidas
+PPDA,Pases permitidos por acción defensiva
+OPPDA,Pases del adversario permitidos por acción defensiva
+DC,Cantidad de pases que un equipo ejecuta en área rival
+ODC,Cantidad de pases que el equipo adversario ejecuta en el área propia de un equipo
+Temporada,Temporada a la que pertenece
+Métricas de cada partido, --------------
+Fecha,Fecha del partido
+Hora,Hora del partido
+Comp,Competición perteneciente al partido
+Jornada,Jornada correspondiente al partido
+Día,Día a la semana que se disputó el partido
+Sedes,Si el equipo juega como Local o Visitante
+Resultado,Resultado del partido (Empate o Victoria o Derrota)
+GF,Goles a favor del partido
+GC,Goles en contra del partido
+Adversario,Nombre del equipo rival
+xG,Goles esperados en el partido
+xGA,Asistencias esperadas en el partido
+Pos.,Posesión del partido
+Capitán,Capitán del partido
+Árbitro,Árbitro del partido
+Temporada,Temporada a la que pertenece
+Equipo,Nombre del equipo
+PPDA,Pases permitidos por acción defensiva
+OPPDA,Pases del adversario permitidos por acción defensiva
+DC,Cantidad de pases que un equipo ejecuta en área rival
+ODC,Cantidad de pases que el equipo adversario ejecuta en el área propia de un equipo
+Métricas de jugadores, ---------------------
+Jugador,Nombre del jugador
+País,Nacionalidad del jugador
+Posc,Posición de juego del jugador
+Edad,Edad actual del jugador
+PJ,Partidos jugados
+Titular,Número de veces que ha sido titular el jugador
+Mín,Minutos totales jugados
+90 s,Minutos jugados por 90 minutos
+Gls.,Número de goles marcados
+Ass,Número de asistencias realizadas
+G-TP,Número de goles sin penalización realizados
+TP,Número de tiros penales ejecutados
+TPint,Número de tiros penales intentados
+TA,Número de tarjetas amarillas recibidas
+TR,Número de tarjetas rojas recibidas
+Gls./90,Número de goles realizados por 90 minutos
+Ast/90,Número de asistencias realizadas por 90 minutos
+G+A/90,Número de goles y asistencias realizadas por 90 minutos
+G-TP/90,Número de goles sin penalización por 90 minutos
+G+A-TP/90,Número de goles sin penalización y asistencias por 90 minutos
+xG,Número de goles esperados
+npxG,Número de goles sin penalización esperados
+xA,Número de asistencias esperadas
+npxG+xA,Número de goles sin penalización esperados y asistencias esperadas
+xG/90,Número de goles esperados por 90 minutos
+xA/90,Número de asistencias esperadas por 90 minutos
+xG+xA/90,Número de goles esperados y asistencias esperadas por 90 minutos
+npxG/90,Número de goles sin penalización esperados por 90 minutos
+npxG+xA/90,Número de goles sin penalización esperados y asistencias esperadas por 90 minutos
+Temporada,Temporada a la que pertenece
+Equipo,Nombre del equipo al que pertenece
+Métrcias de porteros, --------------------
+Jugador,Nombre del jugador
+País,Nacionalidad del jugador
+Posc,Posición de juego del jugador
+Edad,Edad actual del jugador
+PJ,Partidos jugados por el jugador
+Titular,Número de veces que ha sido titular el jugador
+Mín,Minutos totales jugados
+90 s,Minutos jugados por 90 minutos
+GC,Número de goles encajados
+GC90,Número de goles encajados por 90 minutos
+DaPC,Número de disparos a puerta en contra
+Salvadas,Número de salvadas totales
+% Salvadas,Porcetaje de salvadas
+PaC,Número partidos sin recibir un gol
+PaC%,Porcentaje de partidos sin recibir un gol
+PC,Número de penales salvados
+%PC,Porcentaje de penales salvados
+Temporada,Temporada a la que pertenece
+Equipo,Nombre del equipo al que pertenece
+TL,Número de goles recibidos por tiros libres
+TE,Números de goles recibidos por saques de esquina
+GCpropios,Número de goles en contra recibidos en propia puerta
+PSxG,Número de goles esperados posteriores al tiro
+PSxG/SoT,Número de goles esperados posteriores al tiro a puerta
+PSxG+/-,Número de goles esperados posteriores al tiro menos goles permitidos
+/90,Número de goles esperados porsteriores al tiro menos goles permitidos por 90 minutos
+Cmp,Pases completados de más de 40 yardas
+PInt.,Pases intentados de más de 40 yardas
+% Cmp,Porcentaje de pases completados con éxito de más de 40 yardas
+Opp,Número de intentos del oponente de cruzar el área rival
+Stp,Número de acciones defensivas fuera del área de penal
+% de Stp,Porcentaje de número de centros en el área de penal que fueron frenados con éxito.
+Núm. de OPA,Número de acciones defensivas fuera del área de penal
+Núm. de OPA/90,Número de acciones defensivas fuera del área penal por 90 minutos
